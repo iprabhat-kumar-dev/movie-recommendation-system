@@ -210,3 +210,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 >>>>>>> 676298dc06a6cd4ac8224c1063f6f2504e91eb9d
+
+
+similarity.pkl
+movies_dict.pkl
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
