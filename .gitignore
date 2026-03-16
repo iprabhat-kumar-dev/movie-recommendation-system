@@ -1,4 +1,22 @@
 <<<<<<< HEAD
+
+# IDE and editor settings
+.idea/
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Temporary documents
+.virtual_documents/
+
+# Environment files
+
+*.pkl
+*.csv
+
+
+
 .env
 .env.example
 similarity.pkl
@@ -143,7 +161,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+
 .envrc
 .venv
 env/
